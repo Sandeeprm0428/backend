@@ -1,2 +1,7 @@
 flask==3.0.3
 flask-cors==4.0.1
+
+
+
+# python -m venv .\scripts\venv\env
+# .\scripts\venv\env\Scripts\activate
